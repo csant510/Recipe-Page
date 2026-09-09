@@ -1,2 +1,2 @@
 # Recipe Page
-This is a basic html page to Recipe for choclate chip cookies
+This is a basic HTML page to Recipe for chocolate chip cookies. This is just basic HTML practice of using heading and list and inserting a picture.
